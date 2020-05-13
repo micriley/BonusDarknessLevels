@@ -1,0 +1,3 @@
+Load Priority 1
+To "Scripts/RoomManager.lua"
+  Import "BonusDarknessLevels.lua"
